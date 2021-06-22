@@ -1,2 +1,2 @@
-# new-app-react-native
+# First-app-react-native
 Course Ignite
